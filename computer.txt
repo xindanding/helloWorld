@@ -1,3 +1,4 @@
 didi
 today is Monday
 yestertoday is Sunday
+tomorrow is Tuesday
