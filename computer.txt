@@ -1,4 +1,5 @@
 didi
 today is Monday
+yestertoday is Sunday
 tomorrow is Tuesday
 the day after tomorrow is Wednesday
