@@ -4,3 +4,4 @@ yestertoday is Sunday
 tomorrow is Tuesday
 the day after tomorrow is Wednesday
 merging resolved
+3.22
