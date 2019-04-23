@@ -1,3 +1,2 @@
 hello world
 I have learn some knowledge of Git
-hello everyone
